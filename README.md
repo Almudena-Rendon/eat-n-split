@@ -1,3 +1,6 @@
+![image](https://github.com/Almudena-Rendon/eat-n-split/assets/126793941/3c53ea37-0bc2-4514-85b8-14adc4a7ca91)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
