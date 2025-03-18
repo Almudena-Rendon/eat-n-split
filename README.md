@@ -1,4 +1,5 @@
-![image](https://github.com/Almudena-Rendon/eat-n-split/assets/126793941/58b2c14a-1611-43e0-af0c-8d0246f19c1c)
+
+![freepik__background__34249](https://github.com/user-attachments/assets/51cbbfb4-2d2b-4748-bbf7-2f1754c14a50)
 
 👉 Try the live demo https://eat-n-split-phi.vercel.app/
 
